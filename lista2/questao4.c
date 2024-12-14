@@ -9,7 +9,7 @@ int main () {
 
     if (temp <= 15) {
         printf("Muito frio");
-    } else if (temp >= 16 && temp < 23) {
+    } else if (temp >= 16 && temp < 23) { 
         printf("Frio");
     } else if (temp <= 23 && temp < 26) {
         printf("Agradável");

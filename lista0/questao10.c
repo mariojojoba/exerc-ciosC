@@ -15,4 +15,6 @@ int main () {
     preco = preco - desconto;
 
     printf("O valor final do produto com desconto é R$ %.2f\n", preco);
-}
+
+    return 0;
+} 
